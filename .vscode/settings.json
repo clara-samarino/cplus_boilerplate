@@ -1,0 +1,8 @@
+{
+    "cmake.generator": "Unix Makefiles",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.configureOnOpen": true,
+    "testMate.cpp.test.workingDirectory": "${workspaceFolder}"
+}
+
