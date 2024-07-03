@@ -2,7 +2,7 @@
 #include "math_functions.h"
 
 // Teste para a função add
-TEST(AdditionTest, HandlesPosixxxxxtiveInput) {
+TEST(AdditionTest, HandlesPositiveInput) {
     EXPECT_EQ(add(1, 2), 3);
     EXPECT_EQ(add(10, 20), 30);
     EXPECT_EQ(add(100, 200), 300);
